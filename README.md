@@ -1,5 +1,7 @@
 # read://it
 
+Latest build: https://read-it-news-aggregator-app.herokuapp.com/
+
 Navigate to /client in terminal then:
 
 `npm i`
